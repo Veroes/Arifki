@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672569287 source:c:\arifki\belajar\tel-u\smst 3\praktikum struktur data\mod15\tpmod15cpp\main.cpp
+	"tree.h"
+
+1672560877 c:\arifki\belajar\tel-u\smst 3\praktikum struktur data\mod15\tpmod15cpp\tree.h
+	<iostream>
+
+1672569095 source:c:\arifki\belajar\tel-u\smst 3\praktikum struktur data\mod15\tpmod15cpp\tree.cpp
+	"tree.h"
+
