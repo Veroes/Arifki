@@ -1,4 +1,4 @@
 # Tugas WGTIK
-Nama  : Arifki Ilham<br />
-Kelas : IF-45-08<br />
-NIM   : 1301210405
+My name is Arifki Ilham<br />
+still learning new stuff everyday<br />
+Programming Skils : JS, Python, Go, C++
